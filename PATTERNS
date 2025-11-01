@@ -218,7 +218,7 @@ OUTPUT:
 44444
 55555
 
-**************
+****************************************************************************
 
 public class patternnumber {
     public static void main(String[] args) {
